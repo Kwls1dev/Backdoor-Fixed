@@ -1,4 +1,4 @@
-# Python Backdoor
+# Python Backdoor (LaZagne FIXED)
 
 This project is a cross-platform (Windows/Linux/MacOS) open source, backdoor/reverse tcp/RAT made in Python3 which contains many features such as multi-client support.
 
