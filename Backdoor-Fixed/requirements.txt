@@ -1,4 +1,5 @@
 pyinstaller
+lasagne
 pyscreeze; platform_system != "Linux"
 Xlib; platform_system == "Linux"
 pynput
