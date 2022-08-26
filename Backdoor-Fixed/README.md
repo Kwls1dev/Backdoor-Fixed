@@ -72,6 +72,10 @@ eg.
 
 This program is for educational purposes only. I take no responsibility or liability for own personal use.
 
+##Merits
+This program had be developed by @xp4xbox!!
+and just updated by @Kwls1dev
+
 ## License
 
 [License](https://github.com/xp4xbox/Python-Backdoor/blob/master/license)
