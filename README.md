@@ -1,4 +1,3 @@
 # Demos
 
-An Work from @xp4xbox (look at github!)
-just an help to update LaZagne Module (module renamed to Lasagne)
+Here I will put some of my works and projects, enjoy!
