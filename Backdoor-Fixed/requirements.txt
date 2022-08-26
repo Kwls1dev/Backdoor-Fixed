@@ -1,0 +1,11 @@
+pyinstaller
+pyscreeze; platform_system != "Linux"
+Xlib; platform_system == "Linux"
+pynput
+cryptography
+pillow
+pywin32; platform_system == "Windows"
+wmi; platform_system == "Windows"
+future
+git+https://github.com/Theano/Theano.git@15c90dd3#egg=Theano==0.8.git
+
